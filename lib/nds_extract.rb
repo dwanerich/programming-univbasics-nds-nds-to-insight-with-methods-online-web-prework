@@ -35,5 +35,5 @@ end
 # using director_data as input
 
 def gross_for_director(director_data)
-  new_hash[name]
+  total_gross
 end
